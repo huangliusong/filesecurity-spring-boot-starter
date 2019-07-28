@@ -1,9 +1,9 @@
 language: java
 
-#jdk:
+jdk:
 #  - openjdk12
 #  - openjdk11
-#  - openjdk8
+  - openjdk8
 
 #cache:
 #  directories:
