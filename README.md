@@ -14,7 +14,7 @@ filesecurity-spring-boot-starter
 
 ### [filesecurity-parent](https://github.com/huangliusong/filesecurity-parent)
 
-### [filesecurity-spring-boot](https://github.com/huangliusong1994/filesecurity-parent)
+### [filesecurity-spring-boot](https://github.com/huangliusong/filesecurityspringboot)
 
 
 
