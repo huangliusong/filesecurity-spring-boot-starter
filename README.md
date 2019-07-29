@@ -8,6 +8,15 @@ filesecurity-spring-boot-starter
 [![build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/huangliusong1994/filesecurityspringboot)
 
 
+## Dependency
+
+### [filesecurity-spring-boot-starter](https://github.com/huangliusong/filesecurity-spring-boot-starter)
+
+### [filesecurity-parent](https://github.com/huangliusong/filesecurity-parent)
+
+### [filesecurity-spring-boot](https://github.com/huangliusong1994/filesecurity-parent)
+
+
 
 ## top.huangliusong2019
 file-security-spring-boot  will help you use file-security with Spring Boot
